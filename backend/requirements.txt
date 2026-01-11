@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+copilotkit>=0.1.76
+langchain_openai
+langgraph
+ag-ui-langgraph>=0.0.23
